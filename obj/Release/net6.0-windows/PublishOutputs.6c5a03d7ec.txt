@@ -1,0 +1,5 @@
+D:\Documents\_Personal Game Projects\GIF to Sprite\builds\GIFToSpriteSheet.exe
+D:\Documents\_Personal Game Projects\GIF to Sprite\builds\GIFToSpriteSheet.dll
+D:\Documents\_Personal Game Projects\GIF to Sprite\builds\GIFToSpriteSheet.deps.json
+D:\Documents\_Personal Game Projects\GIF to Sprite\builds\GIFToSpriteSheet.runtimeconfig.json
+D:\Documents\_Personal Game Projects\GIF to Sprite\builds\GIFToSpriteSheet.pdb

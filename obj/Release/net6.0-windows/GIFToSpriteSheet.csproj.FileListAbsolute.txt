@@ -1,0 +1,16 @@
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\bin\Release\net6.0-windows\GIFToSpriteSheet.exe
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\bin\Release\net6.0-windows\GIFToSpriteSheet.deps.json
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\bin\Release\net6.0-windows\GIFToSpriteSheet.runtimeconfig.json
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\bin\Release\net6.0-windows\GIFToSpriteSheet.dll
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\bin\Release\net6.0-windows\GIFToSpriteSheet.pdb
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.MainWindow.resources
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.csproj.GenerateResource.cache
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.AssemblyInfoInputs.cache
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.AssemblyInfo.cs
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.csproj.CoreCompileInputs.cache
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.dll
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\refint\GIFToSpriteSheet.dll
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.pdb
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\GIFToSpriteSheet.genruntimeconfig.cache
+D:\Documents\_Personal Game Projects\GIF to Sprite\GIFToSpriteSheet\obj\Release\net6.0-windows\ref\GIFToSpriteSheet.dll
